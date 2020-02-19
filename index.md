@@ -1,4 +1,3 @@
-### IE 360 Spring 20 Progress Journal
 
 ```markdown
 
