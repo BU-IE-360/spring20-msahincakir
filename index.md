@@ -1,7 +1,5 @@
+**Homework 0**
 
 ```markdown
-
-**Homework 0**
-[Here](files/example_homework_0.html)
-
+[Here](files\example_homework_0.html)
 ```
